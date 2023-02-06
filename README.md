@@ -1,0 +1,3 @@
+# mekashron.task
+
+Knowledge test.
